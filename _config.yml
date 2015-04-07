@@ -12,4 +12,3 @@ github_username:  tomkeays
 
 # Build settings
 markdown: kramdown
-highlighter: true
